@@ -1,0 +1,12 @@
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.vbprojAssemblyReference.cache
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.frmCarInventory.resources
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.Resources.resources
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.vbproj.GenerateResource.cache
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\bin\Debug\CarInventoryApplication.exe.config
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\bin\Debug\CarInventoryApplication.exe
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\bin\Debug\CarInventoryApplication.pdb
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\bin\Debug\CarInventoryApplication.xml
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.exe
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.xml
+C:\Users\Clayson\source\repos\CarInventoryApplication\CarInventoryApplication\obj\Debug\CarInventoryApplication.pdb
